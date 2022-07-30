@@ -7,18 +7,18 @@ var highScores = [
   {
     name: "Raj",
     score: 1,
-  }
+  },
 ]
 
 var questions= [{
-  question :"What's my fav movie?",
+  question:"What's my fav movie?",
   answer: "The founder"
 },{
    question:"My fav city?",
   answer: "Mumbai"
 },{
-  question:" Where I live?",
-  answer:"Kolkata"
+  question:" Where do I live?",
+  answer: "Kolkata"
 },{
   question:"My first laptop company?",
   answer:"Acer"
