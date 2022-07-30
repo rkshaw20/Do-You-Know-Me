@@ -1,2 +1,4 @@
 # Do-You-Know-Me
-It is a quiz.Those who know me can answer the questions of this quiz.
+This is the simple quiz game to check, how much you know me? <br>
+Tech stack used:
+HTML and Node.Js
